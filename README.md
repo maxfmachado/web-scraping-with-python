@@ -2,4 +2,4 @@
 
 My first web scraping try. I wanted to get the birth date of some known lgbtqiap+ ppl to create a list to feed something (🤷) to get them remembered at their birthday. Still working on the idea.
 
-Im using Selenium to search the names from the json file and get the birth date. Then i export the list with names and birth date to a xlsx file.
+Im using Selenium to search the names from the json file and get the date of birth. Then i export the list with names and birth date to a xlsx file.
